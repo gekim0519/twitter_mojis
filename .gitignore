@@ -1,0 +1,17 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# twitter/aws credentials
+##########################
+twitter_aws_credentials.ipynb
+twitter_credentials.py
+__pycache__
+
+
+# just working files
+#########################
+cleaning_tweets_copy.ipynb
+
+# twitter data
+tweet_data
+
